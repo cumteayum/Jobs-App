@@ -1,4 +1,4 @@
-# router-basics
+# Jobs App
 
 ## Project setup
 ```
@@ -10,10 +10,8 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## This Project is not intended and suitable for commercial use as it uses Firebase's Free quota
+### This Project will be moved to a Blog app in future
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
